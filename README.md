@@ -69,7 +69,7 @@
     <h3 id="installation">Installation</h3>
     <ol>
         <li>Clone the repository:
-            <pre><code>git clone https://github.com/your-username/MelodyVerse.git
+            <pre><code>git clone https://github.com/20SB/MelodyVerse.git
 cd MelodyVerse</code></pre>
         </li>
         <li>Navigate to the server directory and install dependencies:
